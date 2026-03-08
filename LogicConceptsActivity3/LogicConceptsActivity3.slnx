@@ -2,5 +2,10 @@
   <Folder Name="/30/">
     <Project Path="MatrixOperations/MatrixOperations.csproj" Id="102d5fe1-153e-444d-b48f-444c4514268b" />
   </Folder>
-  <Folder Name="/35/" />
+  <Folder Name="/35/">
+    <Project Path="Factorization/Factorization.csproj" Id="cc014fae-3487-408c-ac68-4baf1344f41a" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="ConsoleExtension/Shared.csproj" Id="53de9179-9cd5-4381-a77a-848ea2eb87a8" />
+  </Folder>
 </Solution>
